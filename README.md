@@ -1,14 +1,12 @@
-# Hi, I'm Roman 👋
-### Frontend Developer | Fullstack Enthusiast
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%7CHi%2C+I+am+Roman++a+Frontend+Developer%7C" alt="Typing SVG" /></a>
 
+### Frontend Developer | Fullstack Enthusiast
 ---
 
 ### About Me:
 - 🌍 I'm based in Ukraine.
 - 👨‍💻 I specialize in Frontend Development but also work on the Backend.
-- ⚡ Fun fact: I use [ARCH], btw.
+- 🤔 btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
   
 ---
 
