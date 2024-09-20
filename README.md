@@ -6,7 +6,7 @@
 ### About Me:
 - 🌍 I'm based in Ukraine.
 - 👨‍💻 I specialize in Frontend Development but also work on the Backend.
-- 🤔 btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🤔 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) I use Arch btw 
   
 ---
 
