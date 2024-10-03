@@ -16,8 +16,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-000?&logo=redux&logoColor=764ABC)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/-nuxt.js-000?&logo=nuxt.js)
 
 **Backend & Database**  
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
