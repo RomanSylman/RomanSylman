@@ -6,7 +6,8 @@ Frontend Engineer with 3 years of commercial experience building complex, data-h
 
 Currently focused on **Vue 3 + TypeScript**, real-time interfaces, interactive maps, frontend architecture, and performance optimization.
 
-Based in Ukraine · Open to remote opportunities
+Based in Ukraine · Open to remote opportunities  
+[**Portfolio → portfolio-taupe-ten-13.vercel.app**](https://portfolio-taupe-ten-13.vercel.app/uk)
 
 ---
 
@@ -69,4 +70,5 @@ My work includes:
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Roman_Sylman-000?logo=vercel)](https://portfolio-taupe-ten-13.vercel.app/uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman_Sylman-000?logo=linkedin)](https://www.linkedin.com/in/romansylman)
